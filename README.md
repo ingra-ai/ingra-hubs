@@ -3,7 +3,7 @@
 Ingra Portal is designed to help you curate and manage functions or workflows that can be used to create your own personal assistant suite tailored to your needs.
 Our goal is to make these functions freely available for everyone, enabling a community-driven approach to personal assistant development.
 
-It's available to review at [https://portal.](https://portal.) with your browser to see the result.
+It's available to review at [https://hubs.ingra.ai](https://hubs.ingra.ai) with your browser to see the result.
 
 #### Getting Started as a new User
 1. Login and visit [Marketplace](https://portal./functions/marketplace) and find some useful community-functions for you to Subscribe or Fork.
